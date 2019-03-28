@@ -1,0 +1,12 @@
+创建dev分支，然后切换到dev分支：
+git checkout -b dev
+
+git checkout 命令加上 -b 参数表示创建并切换，相当于以下两条命令：
+	git branch dev
+	git checkout dev
+
+然后用 git branch 命令查看当前分支
+   git branch
+   *dev
+    master
+git branch 命令会列出所有分支，当前分支前面会标有一个*号
