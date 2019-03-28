@@ -10,3 +10,5 @@ git checkout 命令加上 -b 参数表示创建并切换，相当于以下两条
    *dev
     master
 git branch 命令会列出所有分支，当前分支前面会标有一个*号
+
+dev分支上输出展示的内容：
